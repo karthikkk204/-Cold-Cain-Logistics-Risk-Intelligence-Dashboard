@@ -1,0 +1,5 @@
+country,commodity,year,supply_chain_stage,loss_percentage,source_note
+Example Region A,Fruits,2023,Transport,8.5,SYNTHETIC EXAMPLE - NOT FAO DATA
+Example Region B,Vegetables,2023,Storage,6.2,SYNTHETIC EXAMPLE - NOT FAO DATA
+Example Region C,Dairy,2023,Transport,3.4,SYNTHETIC EXAMPLE - NOT FAO DATA
+Example Region D,Grains,2023,Post-harvest,4.1,SYNTHETIC EXAMPLE - NOT FAO DATA
